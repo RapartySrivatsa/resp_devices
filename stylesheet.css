@@ -41,3 +41,11 @@
 /* For Smartphones */
 /* Add a breakpoint at max-width: 670px */
 
+/* For Smartphones */
+/* Add a breakpoint at max-width: 670px */
+@media(max-width:670px){
+  .item{
+    width:100%;
+  }
+}
+
